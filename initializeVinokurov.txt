@@ -1,0 +1,3 @@
+npm init
+npm install mocha chai --save-dev
+https://www.youtube.com/watch?v=MLTRHc5dk6s&t=53s&ab_channel=TraversyMedia
