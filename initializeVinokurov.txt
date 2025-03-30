@@ -1,3 +1,68 @@
 npm init
 npm install mocha chai --save-dev
 https://www.youtube.com/watch?v=MLTRHc5dk6s&t=53s&ab_channel=TraversyMedia
+
+git init
+git add .
+git commit -m "first commit"
+
+https://www.youtube.com/watch?v=nL6asilgoes&list=PLzA2VyZwsq_8nVw1G6L9PehvqSoGjTjsX&index=5&ab_channel=AMazaingCode
+
+git config --global user.name "Jairo Cerón Correa"
+
+// repository remote
+https://github.com/jairoceron/abcsoft
+
+echo "# amazing-git"  >> README.md  
+git init 
+git add README.md 
+git commit -m "first commit"
+git branch -M master 
+git remote add origin https://github.com/jairoceron/abcsoft.git 
+git push -u origin master 
+
+
+> mochatest@1.0.0 test
+> echo "Error: no test specified" && exit 1
+
+"Error: no test specified"
+
+// "test": "echo \"Error: no test specified\" && exit 1",
+
+https://www.youtube.com/watch?v=MLTRHc5dk6s&t=53s&ab_channel=TraversyMedia
+
+ "module": "nodenext", 
+  "type": "module" 
+
+Instead change the require of chai.js to a dynamic import() which is available in all CommonJS  
+
+https://ethereum.stackexchange.com/questions/159325/instead-change-the-require-of-chai-js-in-to-a-dynamic-import-which-is-availabl
+
+
+npm i --save-dev chai@4.2.0
+
+site:github.com sayHello: function()  chai "module.export ="
+
+google :::: TypeError:  is not a function require module.export  
+
+npm install -g serverless 
+
+serverless create -t aws-nodejs
+
+npm init 
+
+DESKTOP@DESKTOP-V9I9BK9 MINGW64 /c/trabajo/mocha_jasmine/mochatest/node_Js_aws (master)
+$ cd node_Js_aws
+
+$  ./deployVinoku.sh
+
+C:\trabajo\mocha_jasmine\mochatest\node_Js_aws\package.zip
+
+
+
+
+
+
+
+
+
